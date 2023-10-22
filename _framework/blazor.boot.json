@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorTailwindCDNSample.dll": "sha256-46rNxwcT1prgrQQcMYNmCpayRDtgjYnzVX8b5vl2vYI=",
+      "BlazorTailwindCDNSample.dll": "sha256-79tIdjtCipmU5XlPYAZohoMEPh01h92FiBalNZ1Z57c=",
       "Microsoft.AspNetCore.Components.dll": "sha256-l5EaIuX98pX9m+ZO3T3eMQ2EPYfDaGgU9OS2Dd1RuLo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-Qwp\/LUQPvlE\/Y2J0zcfgh9nh7YBeJx2H4j9Xo8w7hTc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-XYM80863rCSqPKTIFsPNKnli9FGEN6ydRhJq9gbYJAE=",
