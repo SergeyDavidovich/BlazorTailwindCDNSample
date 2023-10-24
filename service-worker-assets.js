@@ -5,15 +5,15 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",
-      "url": "_framework\/dotnet.7.0.12.mqf304npcx.js"
+      "hash": "sha256-eRbsSkKiWKWKcMiqy13LuLSBIpzmn52qw\/6SX+1jNQ0=",
+      "url": "_framework\/dotnet.7.0.13.76151kug2k.js"
     },
     {
-      "hash": "sha256-O421u5MzVtmNN7GY9RXR9Ib1uPK4hQfPpzOVofr7iNU=",
+      "hash": "sha256-a4pddX9qZIPKCk1twUjxMmZqJTAVBMUW+ACKh3Dijmw=",
       "url": "_framework\/dotnet.timezones.blat"
     },
     {
-      "hash": "sha256-vwAkMgGGA\/XIQDk2s\/UjKb+fTk9xcKpa9qhvMBqj8hA=",
+      "hash": "sha256-jAUX4F\/mZwFmxilR9G6Xx4mr+6DN5H9R0Ps3tVWJ3BI=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-MYjdGVUacGAc2OWLnLNKhW+vmMaFOdeLVJTmlFR7HG8=",
+      "hash": "sha256-I4Glsxu6Yv0AzrSh0lvT+Kd61IoE5\/OEgHkGUMWYmUU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-79tIdjtCipmU5XlPYAZohoMEPh01h92FiBalNZ1Z57c=",
+      "hash": "sha256-GuWhyEKbR6nOzpQbzLVCLv6y8fHIuMXRYCwgyelaARU=",
       "url": "_framework\/BlazorTailwindCDNSample.dll"
     },
     {
@@ -97,55 +97,55 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-U7VY3j1KH3uPYP2TB3sPqP83kUyyOqyyOSMARrAHymI=",
+      "hash": "sha256-IpzAhtk4TdX2m+SR4ebCj5sgX5O179AZkpT62BAQQfU=",
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-Ok7dRittrSmbooouE6ga6\/mGWpjq8qy1wJ7sXR6esFM=",
+      "hash": "sha256-l60XILWFBCjz7mU9FCCTDqjO72ULkm3eV3J4o9WQ+Y4=",
       "url": "_framework\/System.Collections.dll"
     },
     {
-      "hash": "sha256-rlxn8B8ZL9MmrA8Z6No3be1RqFhVusoQqKJeEae17JE=",
+      "hash": "sha256-BAnGoKLFnFbSQS0kCSYtUsu+\/vZeQXdDQsG\/ELvPJ\/c=",
       "url": "_framework\/System.ComponentModel.dll"
     },
     {
-      "hash": "sha256-gp0Pxwny2xmF0Lb\/S+AtCuhGu46h2RzVoaN3tv0ZZQQ=",
+      "hash": "sha256-Dxsl8PMoL4RoSCXMQdqRv+rNWDLFaTPtu9pOx7sUOaY=",
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-Rf1lnc6ZbvSLQLwn1k6XseZfa3Ax7CWu0whlrgRUMyI=",
+      "hash": "sha256-xYpsLCFp+\/rnPV2yYTtMXcX1wNG3gDh6qM7IlG9Qstc=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
-      "hash": "sha256-DHhNVfMhpOvhA2zN6Ts+a2JpDNf\/RqolVn\/nEZgsYJg=",
+      "hash": "sha256-nRCaDWk49ZeyL3+BKngjPBQXKXsUAwhGsQsoHYzk\/2U=",
       "url": "_framework\/System.Net.Http.Json.dll"
     },
     {
-      "hash": "sha256-KTpgLeoe9jn+5p3GZnwQ3f4KS\/GEMVcBs0T6j1CpQzE=",
+      "hash": "sha256-HuRvFf8Y38IT69DLfrwalhZZIbLB5f6aWXuzmrMVHrs=",
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-sGDPJVQF1vkuXV9C89wyVgzPGxBPEQHxHOCt0II7b4w=",
+      "hash": "sha256-j\/SGt9DOmuvlB6rUYYVZP9LLAR\/ReBM6OjKI+4VYphk=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-ljLre6d+YHInXHCBjtJrhpkxvd\/l5251kOgQvp0IKAs=",
+      "hash": "sha256-f94Fo3+jCL7U8GjEtcbtyYhfOR2myoJ9BRV\/oyg2n8o=",
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-hdBk4C6KJz22ypNrlmpqtJ9lUuKYRUCzpQ4wMbl6u+U=",
+      "hash": "sha256-ITiE5LnPENJJDNrREemTYNeb+\/6Y3UZ9xVcIZ\/vnhi8=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
-      "hash": "sha256-DpPIAYV1MPOlHFnYUQ8KmNiq7MWzUyae7oAs8ok3N2s=",
+      "hash": "sha256-hbD8oln1krNFxUhgKmc+s7EXundksDxnjZg9dtrjZrc=",
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.dll"
     },
     {
-      "hash": "sha256-h4qhYKCTjcv426dOcaYqzFWRtOL2fIwUotle78wc1gE=",
+      "hash": "sha256-NPIdkyI2+W1OfcvK2PLAYVqZyPg2nNm82v\/RFFO2\/MI=",
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-2zEr6pR9o\/4rZpE169P+6aKTfLh5sm4cAXs\/s8ngwmI=",
+      "hash": "sha256-kjPFVwfaCXozeRTblKsb2Hu0SAFKdtIczQHG2MW6qFY=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -225,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "3i425ODq"
+  "version": "4moKqZDo"
 };
